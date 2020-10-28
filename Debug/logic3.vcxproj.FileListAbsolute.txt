@@ -1,0 +1,2 @@
+C:\Users\zorro\source\repos\logic3\Debug\logic3.exe
+C:\Users\zorro\source\repos\logic3\Debug\logic3.pdb

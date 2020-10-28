@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\zorro\source\repos\logic3\Source.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic3\Source.cpp(80,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic3\Source.cpp(254,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zorro\source\repos\logic3\Source.cpp(259,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic3\Source.cpp(295,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zorro\source\repos\logic3\Source.cpp(307,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zorro\source\repos\logic3\Source.cpp(308,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zorro\source\repos\logic3\Source.cpp(324,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zorro\source\repos\logic3\Source.cpp(325,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zorro\source\repos\logic3\Source.cpp(356,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\zorro\source\repos\logic3\Source.cpp(480,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  logic3.vcxproj -> C:\Users\zorro\source\repos\logic3\Debug\logic3.exe
